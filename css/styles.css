@@ -294,6 +294,17 @@ body {
     width: 360px;
     margin: 0 auto 15px;
   }
+  
+.container .jumbotron .jumbotron-text{
+  text-align: center;
+  position: relative;
+  top: 50%;
+  margin-left: 0%;
+  color: #fff;
+  padding: 10px;
+  background-color: #000;
+  opacity: .8;
+}
 }
 
 .container2{
